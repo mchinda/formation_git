@@ -103,3 +103,16 @@ git push origin master
 
 git pull remote local
 
+
+git  branch -d//permet de supprimer une brache local
+git push origin:<nom branche>//supprime une branche distant
+
+
+--------------------------------configure meld-----------------------
+ces deux commande permet de configurer meld
+
+1) git config --global diff.tool meld
+2) git config --config difftool.prompt false
+
+
+dddddd
